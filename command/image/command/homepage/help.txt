@@ -1,0 +1,9 @@
+
+NAME
+        dockee image - Open homepage of specified image.
+
+SYNOPSIS
+        dockee image --name <image-name>
+ARGUMENTS
+        --name <image-name>
+        Image name.

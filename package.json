@@ -1,0 +1,33 @@
+{
+    "name": "dockee",
+    "version": "0.0.1",
+    "description": "Docker toolkit.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": {
+        "name": "YounGoat",
+        "email": "youngoat@163.com",
+        "url": "https://youngoat.github.io"
+    },
+    "license": "ISC",
+    "directories": {
+        "bin": "bin"
+    },
+    "dependencies": {
+        "colors": "^1.4.0",
+        "commandos": "^0.7.4",
+        "inquirer": "^7.3.3",
+        "jinang": "^0.26.1",
+        "noda": "^0.1.2",
+        "qir": "^0.1.0"
+    },
+    "bin": {},
+    "devDependencies": {},
+    "homepage": "https://github.com/YounGoat/dockee",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/YounGoat/dockee.git"
+    }
+}
